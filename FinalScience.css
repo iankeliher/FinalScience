@@ -1,0 +1,108 @@
+.info {
+	font-family: helvetica, arial, sans-serif;
+	color: black;
+	font-weight: bold;
+	margin-left: 75px;
+	margin-top: 20px;
+}
+
+#title {
+	font-size: 36px;
+}
+
+#subhead {
+	font-size: 12px;
+	margin-top: -16px;
+	line-height: 18px;
+}
+
+#learnmore {
+	width: 145px;
+	font-size: 12px;
+	margin-top: 650px;
+}
+
+.map {
+	content: url('img/map.png') no repeat fixed center;
+	position: absolute;
+	left: 60px;
+	top: 115px;
+}
+
+.pin {
+	position: absolute;
+	content: url('img/pin.png') no repeat fixed center;
+	opacity: 20%;
+	z-index: 15;
+}
+
+.gif {
+	content: url('img/wavegif.gif') no repeat fixed center;
+	position: absolute;
+	top: 530px;
+	left: 170px;
+}
+
+#learnmore:visited {
+	text-decoration: none;
+}
+
+#learnmore:hover {
+	border-bottom: 1px solid red;
+}
+
+
+#alaska {
+	left: 138px;
+	top: 318px;
+}
+
+#australia {
+	left: 820px;
+	top: 598px;
+}
+
+#bayArea {
+	left: 195px;
+	top: 421px;
+}
+
+#california {
+	left: 205px;
+	top: 418px;
+}
+
+#china {
+	left: 720px;
+	top: 387px;
+}
+
+#japan {
+	left: 828px;
+	top: 435px;
+}
+
+#peru {
+	left: 310px;
+	top: 550px;
+}
+
+#india {
+	left: 680px;
+	top: 480px;
+}
+
+#chile {
+	left: 325px;
+	top: 604px;
+}
+
+#newJersey {
+	left: 318px;
+	top: 412px;
+}
+
+#southAfrica {
+	left: 548px;
+	top: 602px;
+}
